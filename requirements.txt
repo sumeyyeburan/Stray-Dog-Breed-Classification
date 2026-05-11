@@ -1,8 +1,8 @@
-streamlit
+streamlit==1.32.2
 torch
 torchvision
 timm
 ultralytics
-opencv-python
+opencv-python-headless==4.9.0.80
 pillow
-numpy
+numpy<2
