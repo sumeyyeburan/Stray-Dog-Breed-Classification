@@ -7,6 +7,10 @@ AI-powered stray dog breed classification system using:
 - Streamlit
 - PyTorch
 
+## 🚀 Live Demo
+
+[https://stray-dog-breed-classification.streamlit.app/](https://stray-dog-breed-classification.streamlit.app/)
+
 ## Features
 
 - Dog detection
