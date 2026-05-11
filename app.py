@@ -22,6 +22,10 @@ st.set_page_config(
 # CUSTOM CSS
 # =========================
 st.markdown("""
+
+""", unsafe_allow_html=True)
+
+st.markdown("""
 <style>
 
 .main {
